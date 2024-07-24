@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|c:\\users\\evyatar 2\\desktop\\new c#\\shtarut\\shtarut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|solutionrelative:shtarut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|c:\\users\\evyatar 2\\desktop\\new c#\\shtarut\\shtarut\\service\\shtarotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|solutionrelative:shtarut\\service\\shtarotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\shtarut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|solutionrelative:shtarut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|c:\\users\\evyatar 2\\desktop\\new c#\\shtarut\\shtarut\\service\\shtarotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|solutionrelative:shtarut\\service\\shtarotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|c:\\users\\evyatar 2\\desktop\\new c#\\shtarut\\shtarut\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|solutionrelative:shtarut\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShtarotModel.cs",
+              "DocumentMoniker": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Service\\ShtarotModel.cs",
+              "RelativeDocumentMoniker": "Shtarut\\Service\\ShtarotModel.cs",
+              "ToolTip": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Service\\ShtarotModel.cs",
+              "RelativeToolTip": "Shtarut\\Service\\ShtarotModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:22:14.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Form1.cs",
+              "RelativeDocumentMoniker": "Shtarut\\Form1.cs",
+              "ToolTip": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Form1.cs",
+              "RelativeToolTip": "Shtarut\\Form1.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAQwG8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:03:05.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Form1.cs",
+              "RelativeDocumentMoniker": "Shtarut\\Form1.cs",
+              "ToolTip": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Form1.cs [Design]",
+              "RelativeToolTip": "Shtarut\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:52:12.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShtarotService.cs",
+              "DocumentMoniker": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Service\\ShtarotService.cs",
+              "RelativeDocumentMoniker": "Shtarut\\Service\\ShtarotService.cs",
+              "ToolTip": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Service\\ShtarotService.cs",
+              "RelativeToolTip": "Shtarut\\Service\\ShtarotService.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAswC8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:58:48.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Configuration\\Configuration.cs",
+              "RelativeDocumentMoniker": "Shtarut\\Configuration\\Configuration.cs",
+              "ToolTip": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Configuration\\Configuration.cs",
+              "RelativeToolTip": "Shtarut\\Configuration\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:54:25.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

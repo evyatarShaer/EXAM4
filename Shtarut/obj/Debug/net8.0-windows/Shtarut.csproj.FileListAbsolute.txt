@@ -1,0 +1,16 @@
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\bin\Debug\net8.0-windows\Shtarut.exe
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\bin\Debug\net8.0-windows\Shtarut.deps.json
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\bin\Debug\net8.0-windows\Shtarut.runtimeconfig.json
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\bin\Debug\net8.0-windows\Shtarut.dll
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\bin\Debug\net8.0-windows\Shtarut.pdb
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.Form1.resources
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.csproj.GenerateResource.cache
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.AssemblyInfoInputs.cache
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.AssemblyInfo.cs
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.csproj.CoreCompileInputs.cache
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.dll
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\refint\Shtarut.dll
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.pdb
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.genruntimeconfig.cache
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\ref\Shtarut.dll
