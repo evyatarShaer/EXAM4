@@ -51,7 +51,7 @@
             // yearComboBox
             // 
             yearComboBox.FormattingEnabled = true;
-            yearComboBox.Items.AddRange(new object[] { "תשפ\"ד", "תשפ\"ה", "תשפ\"ו", "תשפ\"ז", "תשפ\"ח", "תשפ\"ט", "תש\"צ", "תשצ\"א", "תשצ\"ג", "תשצ\"ד" });
+            yearComboBox.Items.AddRange(new object[] { "תשפ''ד", "תשפ''ה", "תשפ''ו", "תשפ''ז", "תשפ''ח", "תשפ''ט", "תש''צ", "תשצ''א", "תשצ''ג", "תשצ''ד" });
             yearComboBox.Location = new Point(183, 94);
             yearComboBox.Name = "yearComboBox";
             yearComboBox.Size = new Size(87, 28);

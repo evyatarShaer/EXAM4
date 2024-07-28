@@ -14,3 +14,4 @@ C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\refin
 C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.pdb
 C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.genruntimeconfig.cache
 C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\ref\Shtarut.dll
+C:\Users\evyatar 2\Desktop\new c#\Shtarut\Shtarut\obj\Debug\net8.0-windows\Shtarut.sourcelink.json

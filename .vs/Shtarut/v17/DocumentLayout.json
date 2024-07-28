@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|solutionrelative:shtarut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|c:\\users\\evyatar 2\\desktop\\new c#\\shtarut\\shtarut\\service\\shtarotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|solutionrelative:shtarut\\service\\shtarotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\bin\\Debug\\net8.0-windows\\Shtarot.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shtarut\\bin\\Debug\\net8.0-windows\\Shtarot.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\shtarut\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|c:\\users\\evyatar 2\\desktop\\new c#\\shtarut\\shtarut\\service\\shtarotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|solutionrelative:shtarut\\service\\shtarotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|c:\\users\\evyatar 2\\desktop\\new c#\\shtarut\\shtarut\\service\\shtarotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|solutionrelative:shtarut\\service\\shtarotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67D57850-8C73-4A4A-AA83-D0032930B9A7}|Shtarut\\Shtarut.csproj|c:\\users\\evyatar 2\\desktop\\new c#\\shtarut\\shtarut\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,8 +33,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 310,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +47,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Shtarot.xml",
+              "DocumentMoniker": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\bin\\Debug\\net8.0-windows\\Shtarot.xml",
+              "RelativeDocumentMoniker": "Shtarut\\bin\\Debug\\net8.0-windows\\Shtarot.xml",
+              "ToolTip": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\bin\\Debug\\net8.0-windows\\Shtarot.xml",
+              "RelativeToolTip": "Shtarut\\bin\\Debug\\net8.0-windows\\Shtarot.xml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-24T16:10:55.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ShtarotModel.cs",
               "DocumentMoniker": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Service\\ShtarotModel.cs",
               "RelativeDocumentMoniker": "Shtarut\\Service\\ShtarotModel.cs",
@@ -60,7 +76,7 @@
               "RelativeDocumentMoniker": "Shtarut\\Form1.cs",
               "ToolTip": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Form1.cs",
               "RelativeToolTip": "Shtarut\\Form1.cs",
-              "ViewState": "AQIAAIgAAAAAAAAAAAAQwG8AAAAdAAAA",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAwwGgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T07:03:05.568Z",
               "EditorCaption": ""
@@ -84,13 +100,13 @@
               "RelativeDocumentMoniker": "Shtarut\\Service\\ShtarotService.cs",
               "ToolTip": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Service\\ShtarotService.cs",
               "RelativeToolTip": "Shtarut\\Service\\ShtarotService.cs",
-              "ViewState": "AQIAAKoAAAAAAAAAAAAswC8AAABDAAAA",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAswC8AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T06:58:48.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\evyatar 2\\Desktop\\new c#\\Shtarut\\Shtarut\\Configuration\\Configuration.cs",
               "RelativeDocumentMoniker": "Shtarut\\Configuration\\Configuration.cs",
